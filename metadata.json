@@ -1,0 +1,5 @@
+{
+  "name": "DisasterAssist AI",
+  "description": "Real-time smart disaster detection and rescue platform with AI-powered multi-problem analysis and offline support.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
